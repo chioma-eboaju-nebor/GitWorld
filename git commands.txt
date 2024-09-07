@@ -1,0 +1,12 @@
+vim(to write into a file)
+git diff(unlike git status, this to check into a file status)
+git blame
+touch(create a file)
+cat(view content)
+git log --
+git tag()
+git branch()
+git rm(delete a file)
+git rm --cached filename(If you want to remove the file from the Git index (staging) but keep it locally in your working directory, use the --cached option:)
+nano(same as vim but less powerful)
+code .(open ur IDE)

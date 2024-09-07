@@ -1,0 +1,3 @@
+
+Choose Vim if you want a powerful, highly customizable editor and are willing to invest time in learning it. It’s excellent for programming, scripting, and handling large projects.
+Choose Nano if you need a simple, no-frills editor for quick text or configuration file edits, and you prefer ease of use over advanced features

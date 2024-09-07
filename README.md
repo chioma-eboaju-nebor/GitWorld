@@ -1,2 +1,3 @@
 # GitWorld
-git practice to collaborate a team of 2 and above
+git push -u origin(this push to remote)
+git push (push locally)
